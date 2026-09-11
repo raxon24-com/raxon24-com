@@ -1,7 +1,7 @@
 # Raxon24.com
 
 <p align="center">
-  <img src="assets/raxon24-hero.png" alt="Raxon24.com - Your Gateway to Global Markets" width="100%">
+  <img src="https://github.com/raxon24-com/raxon24-com/blob/main/bannner.jpg?raw=true" alt="Raxon24.com - Your Gateway to Global Markets" width="100%">
 </p>
 
 <p align="center">
