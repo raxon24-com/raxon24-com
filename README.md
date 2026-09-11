@@ -10,9 +10,15 @@
 </p>
 
 <p align="center">
-  <a href="https://raxon24.com/en/">Website</a> •
-  <a href="https://github.com/raxon24-com">GitHub</a> •
-  <a href="https://raxon24.com/en/">Trading Platform</a>
+  <a href="https://raxon24.com/en/">
+    <img src="https://img.shields.io/badge/🌐_Website-Visit_Site-0d1117?style=for-the-badge" alt="Website">
+  </a>
+  <a href="https://github.com/raxon24-com">
+    <img src="https://img.shields.io/badge/💻_GitHub-View_Repository-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://raxon24.com/en/">
+    <img src="https://img.shields.io/badge/📈_Trading_Platform-Trade_Now-0d1117?style=for-the-badge" alt="Trading Platform">
+  </a>
 </p>
 
 ---
@@ -302,3 +308,6 @@ Before using the platform, clients should review the latest official:
 <p align="center">
   <a href="https://raxon24.com/en/">Visit Raxon24.com</a>
 </p>
+
+# Best Keywords
+-trading-platform -online-trading -forex-trading -stock-trading -crypto-trading -cfd-trading -multi-asset-trading -financial-markets -global-markets -forex-broker -online-broker -commodities-trading -indices-trading -mobile-trading -trading-technology -market-analysis -financial-trading -investment-platform -trading-tools -trading-account -professional-trading -global-trading -market-data -fast-execution -secure-trading
