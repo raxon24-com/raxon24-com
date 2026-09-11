@@ -1,4 +1,4 @@
-# Raxon24.com
+<h1 align="center">Raxon24.com</h1>
 
 <p align="center">
   <img src="https://github.com/raxon24-com/raxon24-com/blob/main/bannner.jpg?raw=true" alt="Raxon24.com - Your Gateway to Global Markets" width="100%">
