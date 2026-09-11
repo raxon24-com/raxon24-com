@@ -1,7 +1,7 @@
-# Raxon24
+# Raxon24.com
 
 <p align="center">
-  <img src="assets/raxon24-hero.png" alt="Raxon24 - Your Gateway to Global Markets" width="100%">
+  <img src="assets/raxon24-hero.png" alt="Raxon24.com - Your Gateway to Global Markets" width="100%">
 </p>
 
 <p align="center">
@@ -17,9 +17,9 @@
 
 ---
 
-## 🌍 About Raxon24
+## 🌍 About Raxon24.com
 
-**Raxon24** is a financial trading platform focused on providing a streamlined environment for accessing global markets. The platform is designed around **security, speed, accessibility, market information, and advanced trading tools**, helping traders navigate different financial instruments from a single environment.
+**Raxon24.com** is a financial trading platform focused on providing a streamlined environment for accessing global markets. The platform is designed around **security, speed, accessibility, market information, and advanced trading tools**, helping traders navigate different financial instruments from a single environment.
 
 Raxon24 presents an all-in-one trading experience covering multiple asset classes and provides tools intended to support informed trading decisions.
 
@@ -74,7 +74,7 @@ Raxon24 highlights the following platform capabilities:
 
 ### ⚡ Fast & Low-Latency Execution
 
-Raxon24 states that its trading infrastructure uses specialized high-speed servers to support fast execution and reduce delays during market activity.
+Raxon24.com states that its trading infrastructure uses specialized high-speed servers to support fast execution and reduce delays during market activity.
 
 ### 🛡️ Negative Balance Protection
 
@@ -100,7 +100,7 @@ The overall product approach focuses on:
 
 ## 📊 Key Platform Highlights
 
-| Metric / Capability | Raxon24 Information |
+| Metric / Capability | Raxon24.com Information |
 |---|---|
 | 🌍 Market Reach | Global financial market access |
 | 👥 Investors | Website states **200+ investors** |
@@ -111,7 +111,7 @@ The overall product approach focuses on:
 | 📱 Mobile | iOS and Android access described |
 | 🏦 Business Accounts | Business/company account registration is described |
 
-> **Note:** The numerical figures above are claims presented by the Raxon24 website and are not independently verified in this README.
+> **Note:** The numerical figures above are claims presented by the Raxon24.com website and are not independently verified in this README.
 
 ---
 
@@ -137,11 +137,11 @@ The website describes VIP accounts for selected clients with larger deposits and
 
 ## 🌙 Swap-Free Accounts
 
-Raxon24 states that swap-free accounts are available for clients with applicable religious requirements.
+Raxon24.com states that swap-free accounts are available for clients with applicable religious requirements.
 
 The website notes that certain instruments may still incur fees when positions remain open for specified periods.
 
-For account-specific eligibility and conditions, clients should contact Raxon24 support directly.
+For account-specific eligibility and conditions, clients should contact Raxon24.com support directly.
 
 ---
 
@@ -175,7 +175,7 @@ The published policy also states that certain fees may apply when withdrawing mo
 
 ## 🧾 Compliance, KYC & AML
 
-Raxon24's published privacy and onboarding information describes the collection of customer information for identity verification and **KYC/AML** procedures.
+Raxon24.com's published privacy and onboarding information describes the collection of customer information for identity verification and **KYC/AML** procedures.
 
 Depending on the account and verification requirements, requested information may include:
 
@@ -205,13 +205,13 @@ Key risks described by Raxon24 include:
 - **Regulatory risk** — laws and trading conditions can vary by jurisdiction.
 - **Counterparty risk** — financial counterparties may face financial or operational difficulties.
 
-Raxon24's website includes a warning that **75% of retail investor accounts experience financial losses when trading CFDs**. This statistic should be understood as a risk disclosure rather than a prediction of any individual trader's outcome.
+Raxon24.com's website includes a warning that **75% of retail investor accounts experience financial losses when trading CFDs**. This statistic should be understood as a risk disclosure rather than a prediction of any individual trader's outcome.
 
 ---
 
 ## 🔒 Privacy & Data Protection
 
-Raxon24 states that customer information is collected and processed to provide brokerage services, facilitate account access, and perform identity and compliance checks.
+Raxon24.com states that customer information is collected and processed to provide brokerage services, facilitate account access, and perform identity and compliance checks.
 
 The published privacy policy discusses:
 
@@ -246,7 +246,7 @@ Users should review app permissions before installation and only install applica
 
 ## 🏢 Company & Contact
 
-**Raxon24**  
+**Raxon24.com**  
 Tower 42 International Financial Centre  
 25 Old Broad Street  
 London  
@@ -271,7 +271,7 @@ United Kingdom
 
 ## 🧭 Why Raxon24?
 
-Raxon24 is positioned around a simple proposition: **make global financial-market access more accessible through a combination of trading technology, market tools, execution infrastructure, and client support.**
+Raxon24.com is positioned around a simple proposition: **make global financial-market access more accessible through a combination of trading technology, market tools, execution infrastructure, and client support.**
 
 The platform emphasizes:
 
@@ -295,10 +295,10 @@ Before using the platform, clients should review the latest official:
 ---
 
 <p align="center">
-  <strong>Raxon24</strong><br>
+  <strong>Raxon24.com</strong><br>
   Trade the World • Your Trusted Partner in Financial Markets
 </p>
 
 <p align="center">
-  <a href="https://raxon24.com/en/">Visit Raxon24</a>
+  <a href="https://raxon24.com/en/">Visit Raxon24.com</a>
 </p>
